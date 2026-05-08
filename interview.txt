@@ -1,0 +1,15 @@
+These are the key things that interviewrs are looking for in a candidate: 
+
+1. Analytic Skills 
+2. Coding Skills 
+3. Techinal Skills 
+4. Communication Skills 
+
+
+########################
+What We need for  Coding interviews 
+Two main components 
+#Data structures 
+#Algorithims 
+Note, these coding interviews are here to determine the how hard an candidte is willing to work 
+
